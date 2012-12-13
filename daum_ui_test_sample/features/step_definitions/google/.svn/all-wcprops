@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/private/ta_cucumber/!svn/ver/54/cucumber_ui_test/trunk/daum_ui_test_sample/features/step_definitions/google
+END
+google_steps_with_page_object.rb
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/private/ta_cucumber/!svn/ver/54/cucumber_ui_test/trunk/daum_ui_test_sample/features/step_definitions/google/google_steps_with_page_object.rb
+END
+google_steps.rb
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/private/ta_cucumber/!svn/ver/54/cucumber_ui_test/trunk/daum_ui_test_sample/features/step_definitions/google/google_steps.rb
+END

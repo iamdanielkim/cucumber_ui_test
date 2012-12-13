@@ -1,0 +1,15 @@
+find_id_by_ssn:
+  name: '김대웅'
+  ssn1: '000000'
+  ssn2: '000000'
+  agreeNum: true
+
+find_id_by_phone:
+  name2: '김대웅'
+  phone1: '010'
+  phone2: '000'
+  phone3: '0000'
+
+test_user:
+  id: 'usertest'
+  pw: '******'

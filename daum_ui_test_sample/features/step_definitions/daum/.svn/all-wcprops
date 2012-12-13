@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/private/ta_cucumber/!svn/ver/54/cucumber_ui_test/trunk/daum_ui_test_sample/features/step_definitions/daum
+END
+daum_find_id_steps.rb
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/private/ta_cucumber/!svn/ver/54/cucumber_ui_test/trunk/daum_ui_test_sample/features/step_definitions/daum/daum_find_id_steps.rb
+END
+daum_common_steps.rb
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/private/ta_cucumber/!svn/ver/54/cucumber_ui_test/trunk/daum_ui_test_sample/features/step_definitions/daum/daum_common_steps.rb
+END

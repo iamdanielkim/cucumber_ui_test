@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/private/ta_cucumber/!svn/ver/54/cucumber_ui_test/trunk/daum_ui_test_sample/features/pages/daum
+END
+modify_user_page.rb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/private/ta_cucumber/!svn/ver/54/cucumber_ui_test/trunk/daum_ui_test_sample/features/pages/daum/modify_user_page.rb
+END
+find_id_page_step_2.rb
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/private/ta_cucumber/!svn/ver/54/cucumber_ui_test/trunk/daum_ui_test_sample/features/pages/daum/find_id_page_step_2.rb
+END
+find_id_page_step_3.rb
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/private/ta_cucumber/!svn/ver/54/cucumber_ui_test/trunk/daum_ui_test_sample/features/pages/daum/find_id_page_step_3.rb
+END
+login_form_page.rb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/private/ta_cucumber/!svn/ver/54/cucumber_ui_test/trunk/daum_ui_test_sample/features/pages/daum/login_form_page.rb
+END
+find_id_page.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/private/ta_cucumber/!svn/ver/54/cucumber_ui_test/trunk/daum_ui_test_sample/features/pages/daum/find_id_page.rb
+END

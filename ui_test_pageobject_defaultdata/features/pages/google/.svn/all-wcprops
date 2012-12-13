@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/private/ta_cucumber/!svn/ver/56/cucumber_ui_test/trunk/ui_test_pageobject_defaultdata/features/pages/google
+END
+google_home_page.rb
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/private/ta_cucumber/!svn/ver/56/cucumber_ui_test/trunk/ui_test_pageobject_defaultdata/features/pages/google/google_home_page.rb
+END
+google_details.rb
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/private/ta_cucumber/!svn/ver/56/cucumber_ui_test/trunk/ui_test_pageobject_defaultdata/features/pages/google/google_details.rb
+END

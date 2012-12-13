@@ -1,0 +1,22 @@
+require "cucumber/rake/task"
+require "behave"
+
+task :default => [:features]
+task :features => :download
+
+task :download do
+  Behave::FeatureDownloader.new({
+    "host"   => "http://tadev1:8010",
+    "user"   => "iamdanielkim",
+    "pass"   => "********",
+    "key"    => "LEARNJIRA",
+    "dir"    => "features",
+    "manual" => false
+  })
+end
+
+Cucumber::Rake::Task.new(:features) do |t|
+  t.cucumber_opts = "-f progress -f pretty -f junit --out test-reports/ -f html --out test-reports/cucumber-results.html -f json --out test-reports/cucumber-results.json"
+end
+
+
