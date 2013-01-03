@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 Given /^로그인한 상태이다$/ do
   visit_page(LoginFormPage).exec_login
   sleep 2

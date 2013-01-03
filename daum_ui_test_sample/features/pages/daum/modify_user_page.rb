@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class ModifyUserPage
   include PageObject
   include DataMagic

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 
 
 When /^구글에서 검색을 수행 한다$/ do

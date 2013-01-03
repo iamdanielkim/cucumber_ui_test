@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 
 
 Given /^구글홈에 접속한다$/ do

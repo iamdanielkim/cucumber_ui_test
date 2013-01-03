@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class LoginFormPage
   include PageObject
   include DataMagic

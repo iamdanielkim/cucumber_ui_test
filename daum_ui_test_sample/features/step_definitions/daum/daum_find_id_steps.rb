@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 
 
 Given /^아이디 찾기 화면으로 이동한다$/ do

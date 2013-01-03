@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class FindIdPage
   include PageObject
   include DataMagic

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class DaumFindIdStep3
   include PageObject
 
